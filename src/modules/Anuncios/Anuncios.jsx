@@ -68,7 +68,7 @@ const Anuncios = () => {
           </div>
           <div className="table-responsive anucios-table mt-4">
             
-            <div className="row anuncios-data ms-0 mt-2" style={{ width: "98%" }}>
+            <div className="row anuncios-data ms-0 mt-2 " style={{ width: "98%" , BackgroundColor:"gray"}}>
               <div className="col-2 text-start ps-4 align-middle mt-2">Nome da empresa</div>
               <div className="col-1 text-center align-middle mt-2">Data de creacao</div>
               <div className="col-1 text-center align-middle mt-2">Status</div>

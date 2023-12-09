@@ -24,7 +24,7 @@ const Empresas = () => {
 
     return (
         <>
-            <div className="container-fluid px-3">
+            <div className="container-fluid px-3 ">
                 <div className="card rounded-4 pb-3 px-3 card-table-view" >
                     <div className="card-header border-0 py-4 position-sticky top-0 bg-light z-1">
                         <div className="row">
