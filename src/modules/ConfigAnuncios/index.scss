@@ -1,0 +1,22 @@
+.table {
+    border-radius: 8px;
+    border: 1px solid #bbb;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-spacing: 0;
+
+    thead {
+        background-color: #ddd;
+        color: #000;
+        border: none;
+        border-radius: none;
+        font-weight: normal;
+    }
+
+    td,
+    th {
+        border: none;
+        color: #000;
+    }
+}

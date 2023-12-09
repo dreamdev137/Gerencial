@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tiger Nixon",
+    "local": "System Architect",
+    "status": "Edinburgh",
+    "acessos": 61,
+    "date": "2011/04/25",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Michael Silva",
+    "local": "Marketing Designer",
+    "status": "London",
+    "acessos": 66,
+    "date": "2012/11/27",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "John Doe",
+    "local": "Software Engineer",
+    "status": "New York",
+    "acessos": 30,
+    "date": "2015/08/12",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Jane Smith",
+    "local": "Graphic Designer",
+    "status": "San Francisco",
+    "acessos": 28,
+    "date": "2017/02/18",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Chris Johnson",
+    "local": "Project Manacessosr",
+    "status": "Chicago",
+    "acessos": 35,
+    "date": "2014/05/03",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Alice Brown",
+    "local": "Data Analyst",
+    "status": "Boston",
+    "acessos": 32,
+    "date": "2018/09/21",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Robert Williams",
+    "local": "UX Designer",
+    "status": "Seattle",
+    "acessos": 29,
+    "date": "2016/07/14",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Emily Davis",
+    "local": "HR Manacessosr",
+    "status": "Los Angeles",
+    "acessos": 38,
+    "date": "2013/12/09",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Daniel Anderson",
+    "local": "Frontend Developer",
+    "status": "Austin",
+    "acessos": 27,
+    "date": "2019/04/30",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  },
+  {
+    "name": "Megan Taylor",
+    "local": "Content Writer",
+    "status": "Denver",
+    "acessos": 31,
+    "date": "2010/06/17",
+    "category": "Restaurante",
+    "cnpj": "123456789/1234"
+  }
+]
