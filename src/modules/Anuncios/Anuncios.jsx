@@ -83,7 +83,7 @@ const Anuncios = () => {
             {AnúnciosData && AnúnciosData.length > 0 ? (
               AnúnciosData.map((user, index) => {
                 return (
-                  <div className="row border-dark anuncios-data ms-0 mt-2" style={{ width: "98%", border: "1px solid red" }} key={index}>
+                  <div className="row border-dark anuncios-data ms-0 mt-2" style={{ width: "98%" }} key={index}>
                     <div className="col-2 text-start ps-4 align-middle mt-2">{user?.name}</div>
                     <div className="col-1 text-center align-middle mt-2">{user?.date}</div>
                     <div className="col-1 text-center align-middle mt-2">{user?.status}</div>

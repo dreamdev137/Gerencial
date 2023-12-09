@@ -186,7 +186,7 @@ const Dashboard = () => {
                             highcharts={Highcharts}
                             options={options}
                         />
-                        {/* <Row gutter={[16, 16]} className="mt-3">
+                        <Row gutter={[16, 16]} className="mt-3">
                             {staticData?.map((item, index) => {
                                 return (
                                     <Col xs={24} sm={24} md={12} lg={8} xl={8} >
@@ -201,7 +201,7 @@ const Dashboard = () => {
                                     </Col>
                                 )
                             })}
-                        </Row> */}
+                        </Row>
                     </Col>
                     <Col xs={24} sm={24} md={24} lg={8} xl={8} >
                         <div style={{ height: '20rem' }}>
@@ -215,12 +215,12 @@ const Dashboard = () => {
                                 allowFullScreen=""
                                 loading="lazy"
                             />
-                            {/* <div className="mt-3">
+                            <div className="mt-3">
                                 <HighchartsReact
                                     highcharts={Highcharts}
                                     options={config}
                                 />
-                            </div> */}
+                            </div>
                         </div>
                     </Col>
                 </Row>
