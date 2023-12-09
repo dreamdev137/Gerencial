@@ -8,7 +8,7 @@ const Asidebar = () => {
                     <img
                         src="/images/logo.png"
                         alt="Sidebar Logo"
-                        height="34"
+                        height="44"
                     />
                 </div>
                 <div className="list-group list-group-flush">

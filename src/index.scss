@@ -7,7 +7,7 @@
   --theme-bg-color: #fafafb;
   --body-font: "Poppins", sans-serif;
   --body-color: #1a1110;
-  --active-color: rgb(31, 190, 148);
+  --active-color: rgb(31, 190, 118);
   --active-light-color: #e1ebfb;
   --header-bg-color: #fff;
   --search-border-color: #efefef;
@@ -79,7 +79,7 @@ button.btn-primary {
 }
 
 #sidebar-wrapper {
-  min-height: 80vh;
+  min-height: 100vh;
   margin-left: -15rem;
   background: var(--body-color);
   opacity: 0.9;
@@ -87,8 +87,8 @@ button.btn-primary {
 }
 
 #sidebar-wrapper .sidebar-heading {
-  padding: 0.875rem 1.25rem;
-  font-size: 1.2rem;
+  padding: 2.875rem 1.25rem;
+  font-size: 2.2rem;
 }
 
 #sidebar-wrapper .list-group {
