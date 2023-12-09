@@ -7,7 +7,7 @@
   --theme-bg-color: #fafafb;
   --body-font: "Poppins", sans-serif;
   --body-color: #1a1110;
-  --active-color: #12d76c;
+  --active-color: #41c57c;
   --active-light-color: #e1ebfb;
   --header-bg-color: #fff;
   --search-border-color: #efefef;
@@ -79,7 +79,7 @@ button.btn-primary {
 }
 
 #sidebar-wrapper {
-  min-height: 100vh;
+  min-height: 80vh;
   margin-left: -15rem;
   background: var(--body-color);
   opacity: 0.9;
@@ -121,11 +121,11 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 }
 
 .list-group-item-light {
-  background: rgb(129, 129, 129);
+  background: rgb(54, 53, 53);
   border: none;
   margin: 6px 0 !important;
   padding: 13px 30px !important;
-  border-radius: 20px !important;
+  border-radius: 10px !important;
   color: #fff;
   transition: ease-out 0.3s;
 
@@ -165,6 +165,11 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 div.dataTables_wrapper div.dataTables_length select {
   width: auto;
   display: flex;
+}
+@media (max-width: 576px) {
+  #sidebar-wrapper {
+   
+  }
 }
 
 .table {

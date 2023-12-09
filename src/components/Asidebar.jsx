@@ -81,7 +81,7 @@ const Asidebar = () => {
                         activeClassName="selected"
                         to="/configuracoes"
                     >
-                        <i class="bi bi-gear me-2"></i> Configuracoes Gerais
+                        <i className="bi bi-gear me-2"></i> Configuracoes Gerais
                     </NavLink>
                 </div>
             </div>
